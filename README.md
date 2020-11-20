@@ -2,7 +2,9 @@
 
 ### Code to support
 
-Leveraging big data for classification of children who stutter from fluent peers. Saige Rutherford, Mike Angstadt, Chandra Sripada, Soo-Eun Chang. bioRxiv 2020.10.28.359711; doi: https://doi.org/10.1101/2020.10.28.359711
+*Leveraging big data for classification of children who stutter from fluent peers.* 
+
+Saige Rutherford, Mike Angstadt, Chandra Sripada, Soo-Eun Chang. bioRxiv 2020.10.28.359711; doi: https://doi.org/10.1101/2020.10.28.359711
 
 The raw data files necessary for this analysis are restricted (ABCD data). An NDA study (DOI:	10.15154/1520500) has been created for the ABCD data used in this work and can be used to understand which (release 1.1) subjects were included in our analyses. Projected PCA components and other necessary (fully anonymized) variables have been saved in a matlab workspace variable (`data/bigdata-cws.mat`) and can be used only for the purposes of reproducing the results in our [paper](https://www.biorxiv.org/content/10.1101/2020.10.28.359711v1.abstract). 
 
