@@ -12,11 +12,10 @@ The raw data files necessary for this analysis are restricted (ABCD data). An ND
 
 1. Clone this repository to your computer. `git clone https://github.com/saigerutherford/bigdata-stuttering.git ./bigdata-stuttering`
 2. Run `code/s01_PredictiveModel.m` (Note: All analysis was run using MATLAB R2015b and has not been tested in other verisons)
-3. Network interpretability analysis can be reproduced by running `code/s03_Keep2Networks.m` after running the predictive model script in step 2.
-4. Permutations can be reproduced by running `code/s04_Permutations.m`
+3. Permutations can be reproduced by running `code/s04_Permutations.m`
 
 ## Note:
 
-`code/s00_ABCD.m`, `code/s00_HCP.m`, & `code/s00_InSample.m` are meant for code reviewing purposes only. These scripts contain hard-coded paths to data that are unable to be shared due to restrictive data sharing agreements. Thus these scripts will not be able to be run in a new environment, and are shared to provide transparency for how the data was preprocessed and organized prior to running predictive models. 
+`code/s00_ABCD.m`, `code/s00_HCP.m`, `code/s00_InSample.m` & `code/s03_Keep2Networks.m` are meant for code reviewing purposes only. These scripts contain hard-coded paths to data that are unable to be shared due to restrictive data sharing agreements. Thus these scripts will not be able to be run in a new environment, and are shared to provide transparency for how the data was preprocessed and organized prior to running predictive models. 
 
 This repository is distributed under a [CC-BY-4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
