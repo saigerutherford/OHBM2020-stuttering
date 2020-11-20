@@ -11,8 +11,10 @@ The raw data files necessary for this analysis are restricted (ABCD data). An ND
 ### Instructions for setup
 
 1. Clone this repository to your computer. `git clone https://github.com/saigerutherford/bigdata-stuttering.git ./bigdata-stuttering`
-2. Run `code/s01_PredictiveModel.m` (Note: All analysis was run using MATLAB R2015b and has not been tested in other verisons)
-3. Permutations can be reproduced by running `code/s04_Permutations.m`
+2. Download files from [Google Drive](https://drive.google.com/drive/folders/1-P3W28lMAmbFbOyHvKYeJ3SX2dOrjOdS?usp=sharing) because they are over GitHub's 100Mb file size limit. Untar the files and add them to the cloned git repo (Hint use: `tar xvf file.tar.gz`).
+3. Run `code/s01_PredictiveModel.m` (Note: All analysis was run using MATLAB R2015b and has not been tested in other verisons)
+4. Permutations can be reproduced by running `code/s04_Permutations.m`
+5. Step away from your computer & do a happy dance or go get a snack. Be creative. 
 
 ## Note:
 
